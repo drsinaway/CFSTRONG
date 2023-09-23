@@ -1,1 +1,1 @@
-# CFSTRONG.js
+# DDOS L7
